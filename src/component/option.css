@@ -1,0 +1,14 @@
+.options{
+    margin-top: 10px;
+}
+.option{
+    width: 100px;
+    margin-left: 20px;
+    line-height: 20px;
+    outline: none;
+    border-radius: 6px;
+    padding-left: 10px;
+}
+.delete{
+    margin: 10px;
+}
